@@ -1,0 +1,10 @@
+dotnet core => use lib man to manage client side librarues
+
+
+$ documetn . ready funciton. safe way to handle scpope erros
+
+
+
+css inset boreer. 
+width auto makes small as possible
+.hide show = toggle
